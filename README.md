@@ -14,5 +14,6 @@
 
 **FUNCIONALITATS:**
 
-- index.html : web home
+- login.html : login page
 - welcome.html : web de benvinguda
+- contacto.html : para contactar con Iker, Webmaster
